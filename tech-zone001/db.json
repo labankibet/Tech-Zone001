@@ -1,0 +1,183 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S23 Ultra",
+      "brand": "Samsung",
+      "description": "The Samsung Galaxy S23 Ultra is a flagship smartphone with advanced features and specifications.",
+      "price": 25599.99,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/feature/164370272/uk-feature-galaxy-s-535141640?$FB_TYPE_I_JPG$",
+      "availability": true,
+      "specs": {
+        "display": "6.2-inch AMOLED",
+        "camera": "12MP + 8MP",
+        "storage": "128GB",
+        "battery": "4000mAh",
+        "operating_system": "Android 11",
+        "processor": "Snapdragon 865",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Samsung A90",
+      "brand": "Samsung",
+      "description": "The Samsung Galaxy A90 5G is one of the most affordable 5G phones. It also has a decent amount of power, but its camera is enormously disappointing for the price, so only buy this if you value 5G over photography.",
+      "price": 19999.99,
+      "image": "https://phonegradekenya.odoo.com/web/image/product.image/3372/image_1024/Samsung%20Galaxy%20A90%205G%208GB-128GB%20Smartphone?unique=7c11798",
+      "availability": true,
+      "specs": {
+        "display": "6.5-inch OLED",
+        "camera": "16MP + 12MP",
+        "storage": "256GB",
+        "battery": "4500mAh",
+        "operating_system": "iOS 15",
+        "processor": "A15 Bionic",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Phone Model 3",
+      "brand": "Brand A",
+      "description": "A description of Phone Model 3.",
+      "price": 499.99,
+      "image": "phone3.jpg",
+      "availability": false,
+      "specs": {
+        "display": "6.0-inch LCD",
+        "camera": "13MP + 5MP",
+        "storage": "64GB",
+        "battery": "3500mAh",
+        "operating_system": "Android 10",
+        "processor": "Snapdragon 765",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Phone Model 4",
+      "brand": "Brand C",
+      "description": "A description of Phone Model 4.",
+      "price": 899.99,
+      "image": "phone4.jpg",
+      "availability": true,
+      "specs": {
+        "display": "6.3-inch AMOLED",
+        "camera": "20MP + 8MP",
+        "storage": "128GB",
+        "battery": "4100mAh",
+        "operating_system": "Android 11",
+        "processor": "Exynos 980",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Phone Model 5",
+      "brand": "Brand D",
+      "description": "A description of Phone Model 5.",
+      "price": 699.99,
+      "image": "phone5.jpg",
+      "availability": true,
+      "specs": {
+        "display": "6.4-inch OLED",
+        "camera": "16MP + 12MP",
+        "storage": "256GB",
+        "battery": "4200mAh",
+        "operating_system": "iOS 14",
+        "processor": "A14 Bionic",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Phone Model 6",
+      "brand": "Brand E",
+      "description": "A description of Phone Model 6.",
+      "price": 599.99,
+      "image": "phone6.jpg",
+      "availability": true,
+      "specs": {
+        "display": "6.1-inch LCD",
+        "camera": "12MP + 8MP",
+        "storage": "128GB",
+        "battery": "3800mAh",
+        "operating_system": "Android 11",
+        "processor": "Snapdragon 870",
+        "ram": "8GB"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Phone Model 7",
+      "brand": "Brand F",
+      "description": "A description of Phone Model 7.",
+      "price": 499.99,
+      "image": "phone7.jpg",
+      "availability": true,
+      "specs": {
+        "display": "6.2-inch AMOLED",
+        "camera": "13MP + 5MP",
+        "storage": "64GB",
+        "battery": "3500mAh",
+        "operating_system": "Android 10",
+        "processor": "Snapdragon 765",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Phone Model 8",
+      "brand": "Brand A",
+      "description": "A description of Phone Model 8.",
+      "price": 799.99,
+      "image": "phone8.jpg",
+      "availability": false,
+      "specs": {
+        "display": "6.5-inch OLED",
+        "camera": "16MP + 12MP",
+        "storage": "256GB",
+        "battery": "4500mAh",
+        "operating_system": "iOS 15",
+        "processor": "A15 Bionic",
+        "ram": "4GB"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Phone Model 9",
+      "brand": "Brand B",
+      "description": "A description of Phone Model 9.",
+      "price": 449.99,
+      "image": "phone9.jpg",
+      "availability": true,
+      "specs": {
+        "display": "6.0-inch LCD",
+        "camera": "12MP + 5MP",
+        "storage": "64GB",
+        "battery": "3500mAh",
+        "operating_system": "Android 11",
+        "processor": "Snapdragon 750G",
+        "ram": "6GB"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Phone Model 10",
+      "brand": "Brand C",
+      "description": "A description of Phone Model 10.",
+      "price": 899.99,
+      "image": "phone10.jpg",
+      "availability": true,
+      "specs": {
+        "display": "6.7-inch AMOLED",
+        "camera": "20MP + 8MP",
+        "storage": "128GB",
+        "battery": "4200mAh",
+        "operating_system": "Android 11",
+        "processor": "Exynos 980",
+        "ram": "8GB"
+      }
+    }
+  ]}
