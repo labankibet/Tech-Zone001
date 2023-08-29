@@ -1,0 +1,288 @@
+{
+  "user-data":[
+
+  ],
+  "phone_models": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro Max",
+      "brand": "Apple",
+      "price": 999,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S22 Ultra",
+      "brand": "Samsung",
+      "price": 1199,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 6 Pro",
+      "brand": "Google",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 10 Pro",
+      "brand": "OnePlus",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Mi 12 Pro",
+      "brand": "Xiaomi",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Redmi K60 Ultra",
+      "brand": "Xiaomi",
+      "price": 330,
+      "img":"https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Xiaomi Mi 12 Pro",
+      "brand": "Xiaomi",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Redmi A2",
+      "brand": "Xiaomi",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Note 12 5G",
+      "brand": "Xiaomi",
+      "price": 533,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Note 10 Pro",
+      "brand": "Xiaomi",
+      "price": 433,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Realme-11-pro",
+      "brand": "RealMe",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/realme-11-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ACE 2 PRO",
+      "brand": "ONEPLUS",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-2v.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "NORD CE3",
+      "brand": "ONEPLUS",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce3-5g.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "9R",
+      "brand": "ONEPLUS",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9r.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "NOKIA LUMIA 920",
+      "brand": "NOKIA",
+      "price": 33,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-920.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "XPERIA 1 V",
+      "brand": "SONY",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-v.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "XPERIA 1O PRO",
+      "brand": "SONY",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-pro-5g.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "ARMOR X13",
+      "brand": "ULEFONE",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x13.jpg",
+      "specs":[
+        {
+          "release_date": "2022-01-11",
+          "screen_size": "6.73 inches",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ] 
+    },
+    {
+      "id": 19,
+      "name": "ARMOR X6 PRO",
+      "brand": "ULEFONE",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x6-pro.jpg",
+      "specs":[
+        {
+          "release_date": "2022-01-11",
+          "screen_size": "6.73 inches",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "NOKIA ASHA 205",
+      "brand": "NOKIA",
+      "price": 3,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-205-new.jpg",
+      "specs":[
+        {
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera",
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11"
+        }
+
+      ]
+    }
+  ]
+}
