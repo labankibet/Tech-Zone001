@@ -1,6 +1,17 @@
 {
-  "user-data":[
-
+  "user-data": [
+    {
+      "username": "Bin",
+      "email": "bin@bin.com",
+      "password": "bin12345",
+      "id": 1
+    },
+    {
+      "username": "Bin",
+      "email": "bin@bin.com",
+      "password": "1234",
+      "id": 2
+    }
   ],
   "phone_models": [
     {
@@ -9,7 +20,7 @@
       "brand": "Apple",
       "price": 999,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -23,7 +34,7 @@
       "brand": "Samsung",
       "price": 1199,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -37,7 +48,7 @@
       "brand": "Google",
       "price": 899,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -51,7 +62,7 @@
       "brand": "OnePlus",
       "price": 899,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -65,7 +76,7 @@
       "brand": "Xiaomi",
       "price": 899,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -78,8 +89,8 @@
       "name": "Xiaomi Redmi K60 Ultra",
       "brand": "Xiaomi",
       "price": 330,
-      "img":"https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
-      "specs":[
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -93,7 +104,7 @@
       "brand": "Xiaomi",
       "price": 899,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -107,7 +118,7 @@
       "brand": "Xiaomi",
       "price": 899,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -121,7 +132,7 @@
       "brand": "Xiaomi",
       "price": 533,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -135,7 +146,7 @@
       "brand": "Xiaomi",
       "price": 433,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -149,7 +160,7 @@
       "brand": "RealMe",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/realme-11-pro.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -163,7 +174,7 @@
       "brand": "ONEPLUS",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-2v.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -177,7 +188,7 @@
       "brand": "ONEPLUS",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce3-5g.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -191,7 +202,7 @@
       "brand": "ONEPLUS",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9r.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -205,7 +216,7 @@
       "brand": "NOKIA",
       "price": 33,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-920.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -219,7 +230,7 @@
       "brand": "SONY",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-v.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -233,7 +244,7 @@
       "brand": "SONY",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-pro-5g.jpg",
-      "specs":[
+      "specs": [
         {
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11",
@@ -247,13 +258,13 @@
       "brand": "ULEFONE",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x13.jpg",
-      "specs":[
+      "specs": [
         {
           "release_date": "2022-01-11",
           "screen_size": "6.73 inches",
           "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
         }
-      ] 
+      ]
     },
     {
       "id": 19,
@@ -261,7 +272,7 @@
       "brand": "ULEFONE",
       "price": 333,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x6-pro.jpg",
-      "specs":[
+      "specs": [
         {
           "release_date": "2022-01-11",
           "screen_size": "6.73 inches",
@@ -275,13 +286,12 @@
       "brand": "NOKIA",
       "price": 3,
       "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-205-new.jpg",
-      "specs":[
+      "specs": [
         {
           "camera": "50MP triple-lens rear camera system, 32MP front-facing camera",
           "screen_size": "6.73 inches",
           "release_date": "2022-01-11"
         }
-
       ]
     }
   ]
