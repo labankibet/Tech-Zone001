@@ -1,183 +1,288 @@
 {
-  "products": [
+  "user-data":[
+
+  ],
+  "phone_models": [
     {
       "id": 1,
-      "name": "Samsung S23 Ultra",
-      "brand": "Samsung",
-      "description": "The Samsung Galaxy S23 Ultra is a flagship smartphone with advanced features and specifications.",
-      "price": 25599.99,
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/feature/164370272/uk-feature-galaxy-s-535141640?$FB_TYPE_I_JPG$",
-      "availability": true,
-      "specs": {
-        "display": "6.2-inch AMOLED",
-        "camera": "12MP + 8MP",
-        "storage": "128GB",
-        "battery": "4000mAh",
-        "operating_system": "Android 11",
-        "processor": "Snapdragon 865",
-        "ram": "6GB"
-      }
+      "name": "iPhone 14 Pro Max",
+      "brand": "Apple",
+      "price": 999,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "Samsung A90",
+      "name": "Samsung Galaxy S22 Ultra",
       "brand": "Samsung",
-      "description": "The Samsung Galaxy A90 5G is one of the most affordable 5G phones. It also has a decent amount of power, but its camera is enormously disappointing for the price, so only buy this if you value 5G over photography.",
-      "price": 19999.99,
-      "image": "https://phonegradekenya.odoo.com/web/image/product.image/3372/image_1024/Samsung%20Galaxy%20A90%205G%208GB-128GB%20Smartphone?unique=7c11798",
-      "availability": true,
-      "specs": {
-        "display": "6.5-inch OLED",
-        "camera": "16MP + 12MP",
-        "storage": "256GB",
-        "battery": "4500mAh",
-        "operating_system": "iOS 15",
-        "processor": "A15 Bionic",
-        "ram": "4GB"
-      }
+      "price": 1199,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-ultra-5g.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 3,
-      "name": "Phone Model 3",
-      "brand": "Brand A",
-      "description": "A description of Phone Model 3.",
-      "price": 499.99,
-      "image": "phone3.jpg",
-      "availability": false,
-      "specs": {
-        "display": "6.0-inch LCD",
-        "camera": "13MP + 5MP",
-        "storage": "64GB",
-        "battery": "3500mAh",
-        "operating_system": "Android 10",
-        "processor": "Snapdragon 765",
-        "ram": "8GB"
-      }
+      "name": "Google Pixel 6 Pro",
+      "brand": "Google",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 4,
-      "name": "Phone Model 4",
-      "brand": "Brand C",
-      "description": "A description of Phone Model 4.",
-      "price": 899.99,
-      "image": "phone4.jpg",
-      "availability": true,
-      "specs": {
-        "display": "6.3-inch AMOLED",
-        "camera": "20MP + 8MP",
-        "storage": "128GB",
-        "battery": "4100mAh",
-        "operating_system": "Android 11",
-        "processor": "Exynos 980",
-        "ram": "6GB"
-      }
+      "name": "OnePlus 10 Pro",
+      "brand": "OnePlus",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 5,
-      "name": "Phone Model 5",
-      "brand": "Brand D",
-      "description": "A description of Phone Model 5.",
-      "price": 699.99,
-      "image": "phone5.jpg",
-      "availability": true,
-      "specs": {
-        "display": "6.4-inch OLED",
-        "camera": "16MP + 12MP",
-        "storage": "256GB",
-        "battery": "4200mAh",
-        "operating_system": "iOS 14",
-        "processor": "A14 Bionic",
-        "ram": "6GB"
-      }
+      "name": "Xiaomi Mi 12 Pro",
+      "brand": "Xiaomi",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro-plus.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 6,
-      "name": "Phone Model 6",
-      "brand": "Brand E",
-      "description": "A description of Phone Model 6.",
-      "price": 599.99,
-      "image": "phone6.jpg",
-      "availability": true,
-      "specs": {
-        "display": "6.1-inch LCD",
-        "camera": "12MP + 8MP",
-        "storage": "128GB",
-        "battery": "3800mAh",
-        "operating_system": "Android 11",
-        "processor": "Snapdragon 870",
-        "ram": "8GB"
-      }
+      "name": "Xiaomi Redmi K60 Ultra",
+      "brand": "Xiaomi",
+      "price": 330,
+      "img":"https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k60-ultra.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 7,
-      "name": "Phone Model 7",
-      "brand": "Brand F",
-      "description": "A description of Phone Model 7.",
-      "price": 499.99,
-      "image": "phone7.jpg",
-      "availability": true,
-      "specs": {
-        "display": "6.2-inch AMOLED",
-        "camera": "13MP + 5MP",
-        "storage": "64GB",
-        "battery": "3500mAh",
-        "operating_system": "Android 10",
-        "processor": "Snapdragon 765",
-        "ram": "6GB"
-      }
+      "name": "Xiaomi Mi 12 Pro",
+      "brand": "Xiaomi",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 8,
-      "name": "Phone Model 8",
-      "brand": "Brand A",
-      "description": "A description of Phone Model 8.",
-      "price": 799.99,
-      "image": "phone8.jpg",
-      "availability": false,
-      "specs": {
-        "display": "6.5-inch OLED",
-        "camera": "16MP + 12MP",
-        "storage": "256GB",
-        "battery": "4500mAh",
-        "operating_system": "iOS 15",
-        "processor": "A15 Bionic",
-        "ram": "4GB"
-      }
+      "name": "Redmi A2",
+      "brand": "Xiaomi",
+      "price": 899,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a2-.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 9,
-      "name": "Phone Model 9",
-      "brand": "Brand B",
-      "description": "A description of Phone Model 9.",
-      "price": 449.99,
-      "image": "phone9.jpg",
-      "availability": true,
-      "specs": {
-        "display": "6.0-inch LCD",
-        "camera": "12MP + 5MP",
-        "storage": "64GB",
-        "battery": "3500mAh",
-        "operating_system": "Android 11",
-        "processor": "Snapdragon 750G",
-        "ram": "6GB"
-      }
+      "name": "Xiaomi Note 12 5G",
+      "brand": "Xiaomi",
+      "price": 533,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/redmi-note-12-5g-international.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
     },
     {
       "id": 10,
-      "name": "Phone Model 10",
-      "brand": "Brand C",
-      "description": "A description of Phone Model 10.",
-      "price": 899.99,
-      "image": "phone10.jpg",
-      "availability": true,
-      "specs": {
-        "display": "6.7-inch AMOLED",
-        "camera": "20MP + 8MP",
-        "storage": "128GB",
-        "battery": "4200mAh",
-        "operating_system": "Android 11",
-        "processor": "Exynos 980",
-        "ram": "8GB"
-      }
+      "name": "Xiaomi Note 10 Pro",
+      "brand": "Xiaomi",
+      "price": 433,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Realme-11-pro",
+      "brand": "RealMe",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/realme-11-pro.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ACE 2 PRO",
+      "brand": "ONEPLUS",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-2v.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "NORD CE3",
+      "brand": "ONEPLUS",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce3-5g.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "9R",
+      "brand": "ONEPLUS",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9r.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "NOKIA LUMIA 920",
+      "brand": "NOKIA",
+      "price": 33,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-920.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "XPERIA 1 V",
+      "brand": "SONY",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-v.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "XPERIA 1O PRO",
+      "brand": "SONY",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-pro-5g.jpg",
+      "specs":[
+        {
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "ARMOR X13",
+      "brand": "ULEFONE",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x13.jpg",
+      "specs":[
+        {
+          "release_date": "2022-01-11",
+          "screen_size": "6.73 inches",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ] 
+    },
+    {
+      "id": 19,
+      "name": "ARMOR X6 PRO",
+      "brand": "ULEFONE",
+      "price": 333,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-armor-x6-pro.jpg",
+      "specs":[
+        {
+          "release_date": "2022-01-11",
+          "screen_size": "6.73 inches",
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "NOKIA ASHA 205",
+      "brand": "NOKIA",
+      "price": 3,
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-205-new.jpg",
+      "specs":[
+        {
+          "camera": "50MP triple-lens rear camera system, 32MP front-facing camera",
+          "screen_size": "6.73 inches",
+          "release_date": "2022-01-11"
+        }
+
+      ]
     }
-  ]}
+  ]
+}
