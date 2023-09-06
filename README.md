@@ -9,7 +9,7 @@ list of available bots
 
 To get the code,
 ```bash
- click on this link: https://github.com/kericho/code-challenge--Bot-Battlr.git
+ click on this link: https://github.com/labankibet/code-challenge--Bot-Battlr.git
  ```
 - fork and git clone the code to you local machine.
 - Navigate to this folder by running this command:
@@ -95,4 +95,4 @@ Example Response:
 ```
 
 ### AUTHOR
-Elvis Rono
+Laban Kibet
